@@ -87,7 +87,7 @@ As a developer, I have a diverse skill set encompassing various technologies and
 
 <div align='center'>
 
-## <b> Thanks ✨</b>
+## <b>📍</b>
 
 </div>
 <br>
