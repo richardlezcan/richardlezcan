@@ -81,6 +81,7 @@ As a developer, I have a diverse skill set encompassing various technologies and
     [![EA](https://img.shields.io/badge/EA-%23000000.svg?logo=ea&logoColor=white)](#)
     [![Steam](https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white)](#)
     [![Epic Games](https://img.shields.io/badge/Epic%20Games-%23313131.svg?logo=epicgames&logoColor=white)](#)
+
       
 
 <br>
@@ -91,10 +92,12 @@ As a developer, I have a diverse skill set encompassing various technologies and
 
 </div>
 <br>
-- **GitStats**:
+# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=richardlezcan&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=richardlezcan&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=richardlezcan&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
 <br>
 <br>
 <br>
